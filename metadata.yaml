@@ -1,0 +1,37 @@
+_repo: The-Republic-of-the-Southern-Cross-and-other-stories_53380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryusov, Valery Yakovlevich
+    aliases:
+    - Brussof, Valery
+    - Brussov, Valery
+    - Brjussow, Waleri
+    - Brussoff
+    - Briussov, Valeri
+    - Брюсов, Валерий Яковлевич
+    birthdate: 1873
+    deathdate: 1924
+    gutenberg_agent_id: '39511'
+    url: http://www.gutenberg.org/2009/agents/39511
+    wikipedia: http://en.wikipedia.org/wiki/Valery_Bryusov
+description: ''
+gutenberg_issued: '2016-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: The Republic of the Southern Cross -- The marble bust -- For herself
+  or for another -- In the mirror -- The "Bemol" shop of stationery -- Rhea Silvia
+  -- Eluli, son of Eluli -- In the tower.
+title: The Republic of the Southern Cross, and other stories
+url: http://www.gutenberg.org/ebooks/53380
