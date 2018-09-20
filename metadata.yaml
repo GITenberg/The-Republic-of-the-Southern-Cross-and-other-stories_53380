@@ -1,5 +1,8 @@
 _repo: The-Republic-of-the-Southern-Cross-and-other-stories_53380
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53380-h/images/cover.jpg
 creator:
   author:
     agent_name: Bryusov, Valery Yakovlevich
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39511
     wikipedia: http://en.wikipedia.org/wiki/Valery_Bryusov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53380#The-Republic-of-the-Southern-Cross-and-other-stories
 gutenberg_issued: '2016-10-27'
 gutenberg_type: Text
 identifiers:
